@@ -7,3 +7,6 @@ pip install PyPDF2
 pip install reportlab
 pip install python-pptx
 
+You can install them via cmd with the commands above.
+
+If you're new and don't know how to run a python program from cmd. Using the cmd navigate to the directory/folder that has Pdf-Ppt-to-Text.py and simply run "python Pdf-Ppt-to-Text.py" without the speechmarks of course. Or whatever name you decide to name the file that contains the code.
