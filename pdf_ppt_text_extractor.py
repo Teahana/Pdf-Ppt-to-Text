@@ -1,3 +1,5 @@
+#Author: Adrian Alamu
+
 import tkinter as tk
 from tkinter import filedialog, ttk
 from tkinter.scrolledtext import ScrolledText
